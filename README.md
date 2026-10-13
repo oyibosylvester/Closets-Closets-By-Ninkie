@@ -173,4 +173,16 @@ and role-based access controls.
 ![Inventory management](15-inventory-management.png)
 
 ![Role-based access control](16-role-based-access-control.png)
-**Solution:** Configured Rank Math SEO, submitted sitemaps, and investigated indexing and structured-data reports. Remaining non-critical SEO improvements are being monitored.
+## Live Website Showcase
+
+Watch a walkthrough of **Closets Closets by Ninkie**, a live women's fashion e-commerce website developed using WordPress and WooCommerce.
+
+[![Closets Closets by Ninkie - Live E-commerce Website Showcase](https://img.youtube.com/vi/tSp9ciZGnYo/hqdefault.jpg)](https://youtu.be/tSp9ciZGnYo)
+
+**[▶ Watch the Website Showcase on YouTube](https://youtu.be/tSp9ciZGnYo)**
+
+**Live Website:** https://closetsclosetsbyninkie.co.za
+
+### SEO Implementation
+
+Configured Rank Math SEO, submitted sitemaps, and investigated indexing and structured-data reports. Remaining non-critical SEO improvements are being monitored.

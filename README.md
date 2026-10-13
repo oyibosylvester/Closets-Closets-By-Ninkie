@@ -126,5 +126,51 @@ https://closetsclosetsbyninkie.co.za
 
 ### Search Engine Visibility
 **Challenge:** Troubleshooting sitemap submission and structured-data warnings in Google Search Console.
+## Project Screenshots
 
+The following screenshots document the live e-commerce website,
+customer shopping experience, checkout process, inventory management,
+and role-based access controls.
+
+### Homepage & Storefront
+
+![Homepage hero](01-homepage-hero.png)
+
+![Product categories](02-homepage-categories.png)
+
+![Trending products](03-homepage-trending-products.png)
+
+![Homepage footer](04-homepage-footer.png)
+
+### Customer Engagement
+
+![Follow Our Style](05-follow-our-style.png)
+
+![Join the Closet](06-join-the-closet.png)
+
+![Website footer](07-website-footer.png)
+
+### Product Catalogue & Shopping Experience
+
+![Product details](08-product-details.png)
+
+![Product description](09-product-description.png)
+
+![Related products](10-related-products.png)
+
+![Shopping cart](11-shopping-cart.png)
+
+### Checkout & Shipping
+
+![Checkout details](12-checkout-details.png)
+
+![Checkout payment methods](13-checkout-payments.png)
+
+![Shipping options](14-shipping-options.png)
+
+### Store Administration & Access Control
+
+![Inventory management](15-inventory-management.png)
+
+![Role-based access control](16-role-based-access-control.png)
 **Solution:** Configured Rank Math SEO, submitted sitemaps, and investigated indexing and structured-data reports. Remaining non-critical SEO improvements are being monitored.
